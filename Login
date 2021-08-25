@@ -1,0 +1,2 @@
+# start interactive setup
+$ gh auth login -w
